@@ -18,7 +18,7 @@ I am an enthusiastic Web Developer currently pursuing a Master's degree in Compu
 <!-- Trophies -->
 
 <h2 align="center">Git profile Trophies:</h2><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi3379" alt="furkandeveloper" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi3379&theme=onedark" /></a> </p>
 
 
 
